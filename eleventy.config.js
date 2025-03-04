@@ -89,6 +89,12 @@ export default async function (eleventyConfig) {
   eleventyConfig.addShortcode('image', shortcodes.imageShortcode);
   eleventyConfig.addShortcode('year', () => `${new Date().getFullYear()}`);
 
+
+  // gallery shortcode
+  eleventyConfig.addPairedShortcode("gallery", shortcodes.galleryShortcode);
+
+
+
   // --------------------- Events ---------------------
   if (process.env.ELEVENTY_RUN_MODE === 'serve') {
     eleventyConfig.on('eleventy.after', events.svgToJpeg);
@@ -104,6 +110,9 @@ export default async function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({
     // -- to root
     'src/assets/images/favicon/*': '/',
+
+    // -- Copy photos to root
+    'src/assets/photos': '/assets/photos',
 
     // -- node_modules
     'node_modules/lite-youtube-embed/src/lite-yt-embed.{css,js}': `assets/components/`

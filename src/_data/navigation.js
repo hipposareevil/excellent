@@ -1,20 +1,20 @@
 export default {
   top: [
     {
-      text: 'About',
-      url: '/about/'
-    },
-    {
-      text: 'Docs',
-      url: '/get-started/'
-    },
-    {
-      text: 'Built with',
-      url: '/built-with/'
+      text: 'Bike',
+      url: '/bike/'
     },
     {
       text: 'Blog',
-      url: '/blog/'
+      url: 'http://blog.willprogramforfood.com/'
+    },
+    {
+      text: 'Photos',
+      url: 'http://photos.willprogramforfood.com/'
+    },
+    {
+      text: 'Mobile',
+      url: 'http://hipposareevil.tumblr.com'
     }
   ],
   bottom: [

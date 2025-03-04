@@ -2,7 +2,8 @@
 
 .prose {
   --flow-space: var(--space-m-l);
-  --wrapper-width: 64rem;
+  --wrapper-width: 84rem;
+  margin-left: -1em;
 }
 
 .prose :is(pre, pre + *, figure, picture) {

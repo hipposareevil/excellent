@@ -3,7 +3,7 @@ layout: base
 schema: BlogPosting
 ---
 
-<article class="region" style="--region-space-top: var(--space-xl-2xl)">
+<article class="region" style="--region-space-top: var(--space-l-xl)">
   <div class="wrapper flow prose">
     <h1 class="gradient-text">{{ title }}</h1>
 
@@ -28,7 +28,24 @@ schema: BlogPosting
 
     {{ content | safe }}
     {% include 'partials/edit-on.njk' %}
+
+<!-- prev/next -->
+{%- if collections.posts %}
+{%- set previousPost = collections.posts | getPreviousCollectionItem %}
+{%- set nextPost = collections.posts | getNextCollectionItem %}
+{%- if nextPost or previousPost %}
+<ul class="links-nextprev">
+	{%- if previousPost %}<li class="links-nextprev-prev">&lt; Previous<br> <a href="{{ previousPost.url }}">{{ previousPost.data.title }}</a></li>{% endif %}
+	{%- if nextPost %}<li class="links-nextprev-next">Next &gt;<br><a href="{{ nextPost.url }}">{{ nextPost.data.title }}</a></li>{% endif %}
+</ul>
+{%- endif %}
+{%- endif %}
+
+
+
+
   </div>
+
 
   <!--  h-card infos: https://indieweb.org/authorship -->
   <div hidden class="h-entry">
@@ -42,6 +59,7 @@ schema: BlogPosting
     />
   </div>
 </article>
+
 
 {%- css "local" -%}
   {%- include 'css/post.css' -%}
