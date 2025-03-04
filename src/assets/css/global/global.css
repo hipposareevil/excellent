@@ -48,3 +48,17 @@
 .links-nextprev-next {
 	text-align: right;
 }
+
+
+/* hero header */
+#heroBanner {
+  z-index:-2;
+  height: 3em;
+  background:url('http://willprogramforfood.com/largeHeaderImages/rotate.php') top center no-repeat;
+  max-width: 150%;
+  margin-left: -3em;
+  margin-right: -3em;
+  padding-left: -3em;
+  padding-right: -3em;
+}
+

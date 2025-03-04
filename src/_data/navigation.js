@@ -1,12 +1,16 @@
 export default {
   top: [
     {
-      text: 'Bike',
-      url: '/bike/'
+      text: 'Blog',
+      url: '/blog/'
     },
     {
-      text: 'Blog',
-      url: 'http://blog.willprogramforfood.com/'
+      text: 'Tags',
+      url: '/tags/'
+    },
+    {
+      text: 'Bike',
+      url: 'http://bike.willprogramforfood.com/'
     },
     {
       text: 'Photos',

@@ -1,37 +1,22 @@
 ---
 layout: base
 permalink: /index.html
-title: 'Bike'
-description: 'Bike across USA 2001.'
+title: 'Blog'
+description: 'Ramblings'
 blog:
   title: 'Sections'
 ---
 
 <div class="wrapper">
-  <header class="full | section" style="--spot-color: var(--color-primary)">
-    <div class="section__inner flow region"
-                  style="--region-space-top: var(--space-s-m);">
-      <h3 class="text-center" style="color: var(--color-light);">{{ title }}</h3>
-    </div>
-  </header>
 
   <article class="full | region">
     <div class="wrapper flow prose">
-      <h2>Bike across USA, 200</h2>
-      <p>
-        Solo bike ride from Oregon to Virginia, following the <a href="https://www.adventurecycling.org/routes-and-maps/adventure-cycling-route-network/transamerica-trail/">Trans America</a> route.
-      </p>
+      <h2>Hippo adventures</h2>
     </div>
   </article>
 
   <section class="full | region">
     <div class="wrapper flow prose">
-      <h2>{{ blog.title }}</h2>
-      <!-- blog intro text is optional. -->
-
-      {% if blog.intro %}
-        <p>{{ blog.intro }}</p>
-      {% endif %}
 
       <div class="feature |  region region-space-l">
         <custom-masonry layout="50-50">

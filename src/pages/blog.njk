@@ -1,0 +1,32 @@
+---
+layout: base
+title: Blog
+description: 'Blog Posts'
+pagination:
+  data: collections.allPosts
+  size: 6
+permalink: 'blog/{% if pagination.pageNumber >=1 %}page-{{ pagination.pageNumber + 1 }}/{% endif %}index.html'
+---
+
+<article class="wrapper">
+    <div style="--region-space-top: var(--space-s-m); margin-bottom: 1em;">
+      <br>
+    </div>
+  <custom-masonry layout="50-50">
+		{% asyncEach item in pagination.items %}
+			{% set definedDate = item.date %}
+
+			{% include "partials/card-blog.njk" %}
+		{% endeach %}
+	</custom-masonry>
+
+  <!-- set collection to paginate -->
+  {% set collectionToPaginate = collections.posts %}
+  <!-- set target pagination settings in meta.js -->
+  {% set metaKey = "blog" %}
+  <!-- if the number of items in the collection is greater than the number of items shown on one page -->
+  {% if collectionToPaginate.length > pagination.size %}
+    <!-- include pagination -->
+    {% include 'partials/pagination.njk' %}
+  {% endif %}
+</article>
