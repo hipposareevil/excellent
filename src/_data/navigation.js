@@ -5,6 +5,10 @@ export default {
       url: '/bike/'
     },
     {
+      text: 'Tags',
+      url: '/tags/'
+    },
+    {
       text: 'Blog',
       url: 'http://blog.willprogramforfood.com/'
     },
