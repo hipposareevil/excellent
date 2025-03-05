@@ -1,7 +1,7 @@
 ---
 title: South Sister with Mat
 date: 2015-01-24 
-tags: ["2015", "climbing", "oregon"]
+tags: ["2015", "climbing", "oregon", "southsister"]
 ---
 
 Attempt

@@ -1,7 +1,7 @@
 ---
 title: South Sister Solo
 date: 2022-09-08 10:57:03
-tags: ["2022", "climbing"]
+tags: ["2022", "climbing", "southsister"]
 ---
 
 Quick trip over to climb South Sister. Great weather and conditions on way up to having summit to myself for an hour.

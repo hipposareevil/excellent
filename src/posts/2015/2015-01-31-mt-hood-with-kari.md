@@ -1,7 +1,7 @@
 ---
 title: Mt. Hood, almost
 date: 2015-01-31
-tags: ["2015", "climbing", "oregon"]
+tags: ["2015", "climbing", "oregon", "mthood"]
 ---
 
 <h2>Climb</h2>
