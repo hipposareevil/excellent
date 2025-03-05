@@ -1,7 +1,7 @@
 ---
 title: Portland Tabby
 date: 2017-04-20 12:08:25
-tags: ["2017", "travel"]
+tags: ["2017", "travel", "oregon"]
 ---
 
 I went out to Portland to see Tabby as she was getting sick. 

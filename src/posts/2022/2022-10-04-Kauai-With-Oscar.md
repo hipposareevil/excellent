@@ -1,7 +1,7 @@
 ---
 title: Kauai With Oscar
 date: 2022-10-04 11:08:35
-tags: ["2022", "travel", "oscar"]
+tags: ["2022", "travel", "oscar", "hawaii"]
 ---
 
 Week trip to Kauai. Masubi, warm water, shaved ice, sand.
