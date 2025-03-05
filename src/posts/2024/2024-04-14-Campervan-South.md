@@ -1,7 +1,7 @@
 ---
 title: Campervan South
 date: 2024-04-14 12:29:09
-tags: ["travel"]
+tags: ["2024", "travel"]
 description: "Campervan trip"
 ---
 

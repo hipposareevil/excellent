@@ -2,7 +2,7 @@
 title: Mt. Sunday and Mt. Riley
 date: 2025-02-09 14:50:27
 description: "Mt. Sunday and Mt. Riley"
-tags: ["hiking", "nz"]
+tags: ["2025", "hiking"]
 ---
 
 Craig and I hiked up Mt. Sunday and Mt. Riley at 6am to avoid the heat. The way up was nice with some rock scrambling and goats. The way down was brutal per the range.

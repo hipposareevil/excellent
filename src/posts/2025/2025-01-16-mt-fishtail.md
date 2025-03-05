@@ -1,7 +1,7 @@
 ---
 title: Mt Fishtail
 date: 2025-01-16 20:14:30
-tags: ['hiking', 'nz']
+tags: ["2025", 'hiking']
 description: "Hike up Mt. Fishtail in clouds"
 ---
 

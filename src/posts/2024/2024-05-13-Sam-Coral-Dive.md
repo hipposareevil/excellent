@@ -1,7 +1,7 @@
 ---
 title: Sam Coral Dive
 date: 2024-05-13 14:10:19
-tags: ["travel", "dive"]
+tags: ["2024", "travel", "dive"]
 description: "Coral Dive"
 ---
 

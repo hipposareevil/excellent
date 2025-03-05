@@ -1,7 +1,7 @@
 ---
 title: Soccer in Fall
 date: 2024-06-5 14:09:56
-tags: ["home", "oscar"]
+tags: ["2024", "home", "oscar"]
 ---
 
 Winter soccer.

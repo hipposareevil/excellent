@@ -1,7 +1,7 @@
 ---
 title: "Hike to Speargrass Hut"
 date: 2024-01-13 20:09:56
-tags: ["camping"]
+tags: ["2024", "camping"]
 description: "Tramp to Speargrass Hut"
 ---
 

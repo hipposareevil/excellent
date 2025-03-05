@@ -1,7 +1,7 @@
 ---
 title: Open Water Dive
 date: 2024-03-22 12:23:40
-tags: ["dive"]
+tags: ["2024", "dive"]
 ---
 
 After Rachel had fun with her open water dive class it was my turn. The first day was not awesome, but it got to be more enjoyable after a few more dives.

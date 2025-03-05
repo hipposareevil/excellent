@@ -1,7 +1,7 @@
 ---
 title: "Whites Bay January"
 date: 2024-01-30 21:42:58
-tags: ["home"]
+tags: ["2024", "home"]
 description: "Whites Bay"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Orienteering
 date: 2024-05-05 13:54:46
-tags: ["home", "oscar"]
+tags: ["2024", "home", "oscar"]
 description: "Orienteering"
 ---
 

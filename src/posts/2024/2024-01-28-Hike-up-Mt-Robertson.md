@@ -1,7 +1,7 @@
 ---
 title: Hike up Mt. Robertson
 date: 2024-01-28 21:35:19
-tags: ["hiking"]
+tags: ["2024", "hiking"]
 description: "Mt. Robertson"
 ---
 

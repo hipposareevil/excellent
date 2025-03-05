@@ -1,7 +1,7 @@
 ---
 title: Trohanga Hike
 date: 2024-07-21 14:10:43
-tags: ["hiking"]
+tags: ["2024", "hiking"]
 ---
 
 Trohanga track hike in Picton.

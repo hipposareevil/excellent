@@ -1,7 +1,7 @@
 ---
 title: Marahau Camping
 date: 2024-02-05 11:48:05
-tags: ["camping"]
+tags: ["2024", "camping"]
 description: "Marahau Camping"
 ---
 

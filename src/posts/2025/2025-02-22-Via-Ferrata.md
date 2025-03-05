@@ -1,7 +1,7 @@
 ---
 title: "Via Ferrata"
 date: 2025-02-22 19:42:30
-tags: ["climb", "nz"]
+tags: ["2025", "climb"]
 description: "Via Ferrata Takaka Hill"
 ---
 

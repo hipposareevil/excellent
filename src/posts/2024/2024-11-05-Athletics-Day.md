@@ -1,7 +1,7 @@
 ---
 title: Athletics Day
 date: 2024-11-05 14:24:07
-tags: ["home", "oscar"]
+tags: ["2024", "home", "oscar"]
 ---
 
 Annual athletics day at school.

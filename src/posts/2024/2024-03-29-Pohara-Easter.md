@@ -1,7 +1,7 @@
 ---
 title: Pohara Easter
 date: 2024-03-30 12:27:40
-tags: ["travel"]
+tags: ["2024", "travel"]
 description: "Easter"
 ---
 

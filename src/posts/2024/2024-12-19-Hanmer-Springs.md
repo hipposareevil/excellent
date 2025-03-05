@@ -1,7 +1,7 @@
 ---
-title: Hanmer Springs
+title: Hanmer Springs with Family
 date: 2024-12-19 14:29:59
-tags: ["travel"]
+tags: ["2024", "travel"]
 ---
 
 Trey, Mary, and Simone came over to NZ and we went down to Hanmer Springs with them to rides the slides.

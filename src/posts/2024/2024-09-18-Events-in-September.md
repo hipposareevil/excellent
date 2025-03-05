@@ -1,7 +1,7 @@
 ---
 title: Events in September
 date: 2024-09-18 14:16:08
-tags: ["home"]
+tags: ["2024", "home"]
 ---
 
 Disco party, Makos game, bowling, biking to school.

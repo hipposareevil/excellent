@@ -1,7 +1,7 @@
 ---
 title: Sam Shark Dive
 date: 2024-05-15 14:13:14
-tags: ["travel", "dive"]
+tags: ["2024", "travel", "dive"]
 description: "Sharks"
 ---
 

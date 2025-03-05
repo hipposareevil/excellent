@@ -1,7 +1,7 @@
 ---
 title: "New Years at Quinneys Bush"
 date: 2025-01-02 20:13:32
-tags: ['travel', 'nz']
+tags: ["2025", 'travel']
 description: "New Years at Quinneys Bush"
 ---
 

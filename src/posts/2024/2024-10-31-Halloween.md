@@ -1,7 +1,7 @@
 ---
 title: Halloween
 date: 2024-10-31 14:21:08
-tags: ["home"]
+tags: ["2024", "home"]
 description: "Halloween in the sun"
 ---
 

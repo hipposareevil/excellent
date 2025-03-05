@@ -1,7 +1,7 @@
 ---
 title: Rachel Shark Dive
 date: 2024-05-14 14:12:15
-tags: ["travel", "dive"]
+tags: ["2024", "travel", "dive"]
 description: "Rachel dives with sharks"
 ---
 

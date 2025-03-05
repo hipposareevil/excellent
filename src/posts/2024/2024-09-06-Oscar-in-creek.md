@@ -1,7 +1,7 @@
 ---
 title: Oscar in creek
 date: 2024-09-06 14:18:33
-tags: ["home", "oscar"]
+tags: ["2024", "home", "oscar"]
 description: "Oscar in a creek"
 ---
 

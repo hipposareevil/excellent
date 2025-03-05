@@ -1,7 +1,7 @@
 ---
 title: Mt Roberston
 date: 2025-01-22 20:17:34
-tags: ["hiking", "nz"]
+tags: ["2025", "hiking"]
 description: "Mt. Robertson hike"
 ---
 

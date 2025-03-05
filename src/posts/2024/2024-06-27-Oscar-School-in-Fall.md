@@ -1,7 +1,7 @@
 ---
 title: Oscar School in Fall
 date: 2024-06-27 14:05:44
-tags: ["oscar", "home"]
+tags: ["2024", "oscar", "home"]
 ---
 
 Cat in the Hat, cross country, and Matariki.

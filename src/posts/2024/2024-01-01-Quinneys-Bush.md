@@ -1,7 +1,7 @@
 ---
 title: Quinneys Bush
 date: 2024-01-01 20:03:25
-tags: ["travel"]
+tags: ["2024", "travel"]
 description: "Quinneys Bush"
 ---
 

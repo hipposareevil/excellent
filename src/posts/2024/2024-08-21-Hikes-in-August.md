@@ -1,7 +1,7 @@
 ---
 title: Hikes in August
 date: 2024-08-21 14:14:18
-tags: ["hiking"]
+tags: ["2024", "hiking"]
 ---
 
 Hikes up Mt. Robertson and Wither hills.

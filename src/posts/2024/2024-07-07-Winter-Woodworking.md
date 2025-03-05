@@ -1,7 +1,7 @@
 ---
 title: Winter Woodworking
 date: 2024-07-07 14:12:45
-tags: ["home", "wood"]
+tags: ["2024", "home", "wood"]
 ---
 
 Got a few new toys to build some bookshelves.

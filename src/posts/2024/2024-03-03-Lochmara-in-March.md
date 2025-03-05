@@ -1,7 +1,7 @@
 ---
 title: Lochmara in March
 date: 2024-03-03 12:22:22
-tags: ["home"]
+tags: ["2024", "home"]
 description: "Lochmara"
 ---
 

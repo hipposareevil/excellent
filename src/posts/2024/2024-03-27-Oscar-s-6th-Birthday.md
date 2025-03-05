@@ -1,7 +1,7 @@
 ---
 title: Oscar's 6th Birthday
 date: 2024-03-27 12:24:56
-tags: ["home", "oscar"]
+tags: ["2024", "home", "oscar"]
 description: "Oscar's 6th"
 ---
 
