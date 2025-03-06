@@ -1,10 +1,8 @@
 ---
-title: "Saras Birthday"
+title: "Saras Birthday 2014"
 date: 2014-01-15
 tags: ["2014", "fun"]
 ---
-
-
 Visited Sara for her birthday where we drank a lot of good chocolate, played Cards Against Humanity and went skiing.  Was good fun.
 
 ## Photos
