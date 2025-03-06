@@ -15,7 +15,7 @@ Both days were spent eating sandwiches, reading books concerning vampires taking
 <h2>Panoramic Photos</h2>
 <a href="http://willprogramforfood.com/photos/fire-tower-pano"><img alt="" src="http://willprogramforfood.com/photos/pics/panoramic/2012/fireTower/thumb/fireTowerPano_9.jpg" class="photo"><br/></a>
 
-<h2>Oregon Coast<h2>
+## Photos 
 
 {% gallery %} 
 2012/oregonCoast/beach_014.jpg;
@@ -33,11 +33,6 @@ Both days were spent eating sandwiches, reading books concerning vampires taking
 2012/oregonCoast/beach_179.jpg;
 2012/oregonCoast/beach_196.jpg;
 2012/oregonCoast/beach_198.jpg;
-{% endgallery %}
-
-
-<h2>Fire Tower<h2>
-{% gallery %} 
 2012/fireTower/fireTower_001.jpg;
 2012/fireTower/fireTower_003.jpg;
 2012/fireTower/fireTower_005.jpg;
@@ -72,6 +67,5 @@ Both days were spent eating sandwiches, reading books concerning vampires taking
 2012/fireTower/fireTower_274.jpg;
 2012/fireTower/fireTower_282.jpg;
 2012/fireTower/fireTower_291.jpg;
-
 {% endgallery %}
 

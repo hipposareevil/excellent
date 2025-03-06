@@ -5,35 +5,7 @@ date: 2010-09-18
 ---
 Ingrid, Sara, Simone, Trey, Mom, Dad and I went down to <a href="http://www.opalcreek.org">Opal Creek</a> for a weekend in one of the awesome cabins.  We had really cool weather with mist, rain and great clouds.
 
-
-## Opal Creek
-
-{% gallery %} 
-2010/opalCreekRelics/opalCreek_026.jpg;
-2010/opalCreekRelics/opalCreek_028.jpg;
-2010/opalCreekRelics/opalCreek_036.jpg;
-2010/opalCreekRelics/opalCreek_038.jpg;
-2010/opalCreekRelics/opalCreek_040.jpg;
-2010/opalCreekRelics/opalCreek_048.jpg;
-2010/opalCreekRelics/opalCreek_050.jpg;
-2010/opalCreekRelics/opalCreek_052.jpg;
-2010/opalCreekRelics/opalCreek_054.jpg;
-2010/opalCreekRelics/opalCreek_056.jpg;
-2010/opalCreekRelics/opalCreek_058.jpg;
-2010/opalCreekRelics/opalCreek_060.jpg;
-2010/opalCreekRelics/opalCreek_064.jpg;
-2010/opalCreekRelics/opalCreek_174.jpg;
-2010/opalCreekRelics/opalCreek_176.jpg;
-2010/opalCreekRelics/opalCreek_178.jpg;
-2010/opalCreekRelics/opalCreek_180.jpg;
-2010/opalCreekRelics/opalCreek_182.jpg;
-2010/opalCreekRelics/opalCreek_184.jpg;
-2010/opalCreekRelics/opalCreek_186.jpg;
-2010/opalCreekRelics/opalCreek_299.jpg;
-{% endgallery %}
-
-
-## Relics
+## Photos
 
 {% gallery %} 
 2010/opalCreekRelics/opalCreek_026.jpg;
@@ -57,12 +29,27 @@ Ingrid, Sara, Simone, Trey, Mom, Dad and I went down to <a href="http://www.opal
 2010/opalCreekRelics/opalCreek_184.jpg;
 2010/opalCreekRelics/opalCreek_186.jpg;
 2010/opalCreekRelics/opalCreek_299.jpg;
-{% endgallery %}
-
-
-## Night
-
-{% gallery %} 
+2010/opalCreekRelics/opalCreek_026.jpg;
+2010/opalCreekRelics/opalCreek_028.jpg;
+2010/opalCreekRelics/opalCreek_036.jpg;
+2010/opalCreekRelics/opalCreek_038.jpg;
+2010/opalCreekRelics/opalCreek_040.jpg;
+2010/opalCreekRelics/opalCreek_048.jpg;
+2010/opalCreekRelics/opalCreek_050.jpg;
+2010/opalCreekRelics/opalCreek_052.jpg;
+2010/opalCreekRelics/opalCreek_054.jpg;
+2010/opalCreekRelics/opalCreek_056.jpg;
+2010/opalCreekRelics/opalCreek_058.jpg;
+2010/opalCreekRelics/opalCreek_060.jpg;
+2010/opalCreekRelics/opalCreek_064.jpg;
+2010/opalCreekRelics/opalCreek_174.jpg;
+2010/opalCreekRelics/opalCreek_176.jpg;
+2010/opalCreekRelics/opalCreek_178.jpg;
+2010/opalCreekRelics/opalCreek_180.jpg;
+2010/opalCreekRelics/opalCreek_182.jpg;
+2010/opalCreekRelics/opalCreek_184.jpg;
+2010/opalCreekRelics/opalCreek_186.jpg;
+2010/opalCreekRelics/opalCreek_299.jpg;
 2010/opalCreekNight/opalCreekNight_004.jpg;
 2010/opalCreekNight/opalCreekNight_005.jpg;
 2010/opalCreekNight/opalCreekNight_006.jpg;

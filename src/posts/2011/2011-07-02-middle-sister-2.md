@@ -48,68 +48,57 @@ Panoramic Photos
 
 Photos
 ------
+
 {% gallery %} 
-2011/mtAdams/mtAdams_004.jpg;Hike to trailhead
-2011/mtAdams/mtAdams_008.jpg;First break at Round The Mountain trail
-2011/mtAdams/mtAdams_010.jpg;
-2011/mtAdams/mtAdams_011.jpg;
-2011/mtAdams/mtAdams_017.jpg;
-2011/mtAdams/mtAdams_021.jpg;Trey with added tree weight
-2011/mtAdams/mtAdams_028.jpg;Skiing dog
-2011/mtAdams/mtAdams_031.jpg;Ingrid and Mt. Hood
-2011/mtAdams/mtAdams_035.jpg;Trey and Mary
-2011/mtAdams/mtAdams_037.jpg;Sara
-2011/mtAdams/mtAdams_038.jpg;
-2011/mtAdams/mtAdams_040.jpg;
-2011/mtAdams/mtAdams_042.jpg;
-2011/mtAdams/mtAdams_045.jpg;Downhill on way up
-2011/mtAdams/mtAdams_046.jpg;Mt. St. Helens
-2011/mtAdams/mtAdams_048.jpg;Ing
-2011/mtAdams/mtAdams_049.jpg;Mt. Hood
-2011/mtAdams/mtAdams_053.jpg;Ing, Trey, Sara and Mary
-2011/mtAdams/mtAdams_055.jpg;On way to Lunch Counter
-2011/mtAdams/mtAdams_057.jpg;Sara at camp
-2011/mtAdams/mtAdams_058.jpg;Me, Ing and Hood
-2011/mtAdams/mtAdams_060.jpg;Trey
-2011/mtAdams/mtAdams_062.jpg;Sunset on Pikers Peak
-2011/mtAdams/mtAdams_064.jpg;
-2011/mtAdams/mtAdams_067.jpg;Dad's old ax
-2011/mtAdams/mtAdams_073.jpg;
-2011/mtAdams/mtAdams_086.jpg;Looking towards the Gorge
-2011/mtAdams/mtAdams_088.jpg;Hanging at camp
-2011/mtAdams/mtAdams_091.jpg;Sunset
-2011/mtAdams/mtAdams_092.jpg;Mt. Hood and Mt. Jefferson 
-2011/mtAdams/mtAdams_095.jpg;Shadow of Mt. Adams
-2011/mtAdams/mtAdams_098.jpg;Sara, Mary, Trey and John
-2011/mtAdams/mtAdams_105.jpg;
-2011/mtAdams/mtAdams_107.jpg;Sunrise 
-2011/mtAdams/mtAdams_143.jpg;Yummy breakfast
-2011/mtAdams/mtAdams_150.jpg;
-2011/mtAdams/mtAdams_151.jpg;
-2011/mtAdams/mtAdams_153.jpg;John and Ing
-2011/mtAdams/mtAdams_155.jpg;Ready to head up to Pikers Peak
-2011/mtAdams/mtAdams_157.jpg;Everyone 
-2011/mtAdams/mtAdams_159.jpg;
-2011/mtAdams/mtAdams_161.jpg;
-2011/mtAdams/mtAdams_165.jpg;
-2011/mtAdams/mtAdams_167.jpg;
-2011/mtAdams/mtAdams_168.jpg;
-2011/mtAdams/mtAdams_172.jpg;
-2011/mtAdams/mtAdams_173.jpg;Rest stop at 10,000 feet
-2011/mtAdams/mtAdams_174.jpg;Pikers Peak
-2011/mtAdams/mtAdams_176.jpg;Mary and Ing
-2011/mtAdams/mtAdams_177.jpg;Ingrid sliding down
-2011/mtAdams/mtAdams_179.jpg;
-2011/mtAdams/mtAdams_185.jpg;Mary showing me how to glisade
-2011/mtAdams/mtAdams_232.jpg;
-2011/mtAdams/mtAdams_234.jpg;
-2011/mtAdams/mtAdams_242.jpg;
-2011/mtAdams/mtAdams_243.jpg;Heading down
-2011/mtAdams/mtAdams_246.jpg;
-2011/mtAdams/mtAdams_247.jpg;
-2011/mtAdams/mtAdams_248.jpg;
-2011/mtAdams/mtAdams_250.jpg;
-2011/mtAdams/mtAdams_252.jpg;Everyone sliding
-2011/mtAdams/mtAdams_254.jpg;
+2011/middleSister/middleSister_003.jpg;Hike in
+2011/middleSister/middleSister_006.jpg;Stream crossing
+2011/middleSister/middleSister_007.jpg;Ing
+2011/middleSister/middleSister_013.jpg;Us
+2011/middleSister/middleSister_014.jpg;
+2011/middleSister/middleSister_019.jpg;Broken Top
+2011/middleSister/middleSister_020.jpg;South Sister
+2011/middleSister/middleSister_023.jpg;Camp
+2011/middleSister/middleSister_025.jpg;Setting up camp
+2011/middleSister/middleSister_029.jpg;Us
+2011/middleSister/middleSister_031.jpg;Sunset on Broken Top
+2011/middleSister/middleSister_033.jpg;South Sister
+2011/middleSister/middleSister_036.jpg;
+2011/middleSister/middleSister_038.jpg;South Sister
+2011/middleSister/middleSister_039.jpg;Middle Sister
+2011/middleSister/middleSister_040.jpg;Middle Sister at sunrise
+2011/middleSister/middleSister_043.jpg;Us on way up
+2011/middleSister/middleSister_044.jpg;
+2011/middleSister/middleSister_050.jpg;Slogging
+2011/middleSister/middleSister_054.jpg;North Sister
+2011/middleSister/middleSister_060.jpg;Ingrid
+2011/middleSister/middleSister_062.jpg;Me
+2011/middleSister/middleSister_064.jpg;
+2011/middleSister/middleSister_067.jpg;North Sister
+2011/middleSister/middleSister_074.jpg;Setting up rope
+2011/middleSister/middleSister_076.jpg;
+2011/middleSister/middleSister_079.jpg;
+2011/middleSister/middleSister_080.jpg;
+2011/middleSister/middleSister_082.jpg;
+2011/middleSister/middleSister_084.jpg;Ingrid and Jefferson
+2011/middleSister/middleSister_087.jpg;Me
+2011/middleSister/middleSister_090.jpg;Fixed line for Mazamas
+2011/middleSister/middleSister_097.jpg;
+2011/middleSister/middleSister_103.jpg;Ingrid coming up
+2011/middleSister/middleSister_104.jpg;
+2011/middleSister/middleSister_109.jpg;Ingrid, North Sister, Jefferson
+2011/middleSister/middleSister_111.jpg;Ingrid and South Sister and Bachelor
+2011/middleSister/middleSister_114.jpg;Bird hanging out
+2011/middleSister/middleSister_116.jpg;Us
+2011/middleSister/middleSister_122.jpg;Me on way down
+2011/middleSister/middleSister_124.jpg;
+2011/middleSister/middleSister_128.jpg;Ing
+2011/middleSister/middleSister_130.jpg;Ingrid kicking steps
+2011/middleSister/middleSister_133.jpg;
+2011/middleSister/middleSister_135.jpg;
+2011/middleSister/middleSister_137.jpg;
+2011/middleSister/middleSister_142.jpg;
+2011/middleSister/middleSister_143.jpg;
+2011/middleSister/middleSister_144.jpg;Done
+2011/middleSister/middleSister_146.jpg;Hike out
 {% endgallery %}
 

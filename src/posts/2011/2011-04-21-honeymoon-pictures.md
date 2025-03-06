@@ -5,8 +5,7 @@ date: 2011-04-21
 ---
 More honeymoon pictures in Joshua Tree, Disneyland, Jerome Az and Sedona Az.
 
-
-## Disneyland
+## Photos 
 
 {% gallery %} 
 2011/disneyLand/disneyLand_007.jpg;
@@ -28,11 +27,6 @@ More honeymoon pictures in Joshua Tree, Disneyland, Jerome Az and Sedona Az.
 2011/disneyLand/disneyLand_072.jpg;
 2011/disneyLand/disneyLand_075.jpg;
 2011/disneyLand/disneyLand_077.jpg;
-{% endgallery %}
-
-
-## Sedona
-{% gallery %} 
 2011/sedona/sedona_001.jpg;Ride in Sedona
 2011/sedona/sedona_003.jpg;
 2011/sedona/sedona_006.jpg;
@@ -59,12 +53,6 @@ More honeymoon pictures in Joshua Tree, Disneyland, Jerome Az and Sedona Az.
 2011/sedona/sedona_060.jpg;
 2011/sedona/sedona_062.jpg;
 2011/sedona/sedona_067.jpg;
-{% endgallery %}
-
-
-## Jerome
-
-{% gallery %} 
 2011/jerome/jerome_002.jpg;
 2011/jerome/jerome_010.jpg;
 2011/jerome/jerome_021.jpg;
@@ -82,12 +70,6 @@ More honeymoon pictures in Joshua Tree, Disneyland, Jerome Az and Sedona Az.
 2011/jerome/jerome_059.jpg;
 2011/jerome/jerome_061.jpg;
 2011/jerome/jerome_065.jpg;
-{% endgallery %}
-
-
-## Joshua Tree
-
-{% gallery %} 
 2011/joshuaTree/joshuaTree_004.jpg;Cactus
 2011/joshuaTree/joshuaTree_016.jpg;Ingrid
 2011/joshuaTree/joshuaTree_023.jpg;Sunset
@@ -124,11 +106,6 @@ More honeymoon pictures in Joshua Tree, Disneyland, Jerome Az and Sedona Az.
 2011/joshuaTree/joshuaTree_226.jpg;Cactus
 2011/joshuaTree/joshuaTree_228.jpg;
 2011/joshuaTree/joshuaTree_229.jpg;Routes we did
-{% endgallery %}
-
-## Joshua Tree at night
-
-{% gallery %} 
 2011/joshuaTreeNight/joshuaTreeNight_002.jpg;Joshua tree at camp
 2011/joshuaTreeNight/joshuaTreeNight_007.jpg;
 2011/joshuaTreeNight/joshuaTreeNight_013.jpg;Ingrid 

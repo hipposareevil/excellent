@@ -30,7 +30,7 @@ This was both mine and Dan's first time using blue bags for our waste.  Next tim
 This was definetly a <a href="http://kellycordes.wordpress.com/2009/11/02/the-fun-scale/">Type I</a> climb.  The views, location, ease of climbing, awesome weather and super glissading (5000' of sliding) made it a great trip.
 
 
-## First Day Photos
+## Photos
 
 {% gallery %} 
 2010/mtAdamsDay2/mtAdams_145.jpg;Mt. Adams shadow
@@ -71,12 +71,6 @@ This was definetly a <a href="http://kellycordes.wordpress.com/2009/11/02/the-fu
 2010/mtAdamsDay2/mtAdams_242.jpg;Dan on sled
 2010/mtAdamsDay2/mtAdams_245.jpg;Last glissade chute
 2010/mtAdamsDay2/mtAdams_246.jpg;Walk out
-{% endgallery %}
-
-
-## Second Day Photos
-
-{% gallery %} 
 2010/mtAdamsDay1/mtAdams_001.jpg;Trailhead
 2010/mtAdamsDay1/mtAdams_004.jpg;Up
 2010/mtAdamsDay1/mtAdams_005.jpg;

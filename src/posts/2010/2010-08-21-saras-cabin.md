@@ -7,7 +7,7 @@ I went up to Sara's cabin to show those heathens how to burn corn on a grill and
 We hiked up Mt. Elanor to work up an appetite for dinner.
 
 
-## Mt Elanor
+## Photos
 
 {% gallery %} 
 2010/mtElanor/mtElanor_004.jpg;
@@ -33,11 +33,6 @@ We hiked up Mt. Elanor to work up an appetite for dinner.
 2010/mtElanor/mtElanor_103.jpg;
 2010/mtElanor/mtElanor_104.jpg;
 2010/mtElanor/mtElanor_111.jpg;
-{% endgallery %}
-
-
-## Cabin
-{% gallery %} 
 2010/sarasCabin/sarasCabin_008.jpg;
 2010/sarasCabin/sarasCabin_014.jpg;
 2010/sarasCabin/sarasCabin_026.jpg;

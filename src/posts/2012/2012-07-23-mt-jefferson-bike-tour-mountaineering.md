@@ -41,8 +41,8 @@ Once we hit the Springwater Corridor, Terry bought a can of beer for us to share
 <h2>Panoramic Photos</h2>
 <a href="http://willprogramforfood.com/photos/mt-jefferson-climb"><img alt=""   src="http://willprogramforfood.com/photos/pics/panoramic/2012/jefferson/thumb/jeffersonPano.jpg" class="photo"></a>
 
-<br>
-<h3>Bike & Hike in</h3>
+## Photos 
+
 {% gallery %} 
 2012/jeffersonApproach/jefferson_002.jpg;Food and gear for 4 days
 2012/jeffersonApproach/jefferson_023.jpg;Waiting out lightning on Springwater
@@ -73,10 +73,6 @@ Once we hit the Springwater Corridor, Terry bought a can of beer for us to share
 2012/jeffersonApproach/jefferson_137.jpg;Looking at beta for climb
 2012/jeffersonApproach/jefferson_143.jpg;
 2012/jeffersonApproach/jefferson_144.jpg;
-{% endgallery %}
-
-<h3>Climb</h3>
-{% gallery %} 
 2012/jeffersonClimb/jefferson_160.jpg;Getting to bergshrunds
 2012/jeffersonClimb/jefferson_162.jpg;Mt. Hood
 2012/jeffersonClimb/jefferson_169.jpg;Terry leading way
@@ -148,10 +144,6 @@ Once we hit the Springwater Corridor, Terry bought a can of beer for us to share
 2012/jeffersonClimb/jefferson_523.jpg;
 2012/jeffersonClimb/jefferson_530.jpg;
 2012/jeffersonClimb/jefferson_533.jpg;
-{% endgallery %}
-
-<h3>Hike & Bike home</h3>
-{% gallery %} 
 2012/jeffersonToHome/jefferson_545.jpg;Hiking out
 2012/jeffersonToHome/jefferson_546.jpg;
 2012/jeffersonToHome/jefferson_549.jpg;
@@ -173,6 +165,4 @@ Once we hit the Springwater Corridor, Terry bought a can of beer for us to share
 2012/jeffersonToHome/jefferson_615.jpg;Kyle enjoying the tasty beer
 2012/jeffersonToHome/jefferson_620.jpg;Terry and his beer
 2012/jeffersonToHome/jefferson_629.jpg;All done!
-
 {% endgallery %}
-

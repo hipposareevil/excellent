@@ -15,7 +15,7 @@ Next time a camping trip would be in order, it would be great to stay a few nigh
 ## Panoramic Photos
 <a href="http://willprogramforfood.com/photos/enchantments-hike"><img   src="http://willprogramforfood.com/photos/pics/panoramic/2011/enchantments/thumb/enchantments_pano2.jpg" alt="" class="photo"></a>
 
-## Cairns
+## Photos 
 
 {% gallery %} 
 2011/enchantmentCairns/enchantments_066.jpg;
@@ -26,11 +26,6 @@ Next time a camping trip would be in order, it would be great to stay a few nigh
 2011/enchantmentCairns/enchantments_218.jpg;
 2011/enchantmentCairns/enchantments_221.jpg;
 2011/enchantmentCairns/enchantments_237.jpg;
-{% endgallery %}
-
-## Photos 
-
-{% gallery %} 
 2011/enchantments/enchantments_017.jpg;Milky Way
 2011/enchantments/enchantments_018.jpg;
 2011/enchantments/enchantments_026.jpg;Colchuck Peak
