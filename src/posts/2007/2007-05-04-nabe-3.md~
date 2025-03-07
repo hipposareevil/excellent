@@ -1,0 +1,25 @@
+---
+layout: post
+title: Mores Nabe
+permalink: /nabe-mores
+categories:
+- fun
+tags: ["2007", ]
+status: publish
+type: post
+published: true
+meta:
+  _edit_lock: '1269742324'
+  _edit_last: '1'
+---
+<p>On Thursday,  Kate, Dan, Keevin, Silvia, Pam and her boyfriend came over for some nabe.  As usual it was good.<p>
+<br />
+
+
+{% gallery %} 
+blog/pics/2007/nabe_may/nabe_03.jpg;blog/pics/2007/nabe_may/thumb/nabe_03.jpg;Nabe food
+blog/pics/2007/nabe_may/nabe_04.jpg;blog/pics/2007/nabe_may/thumb/nabe_04.jpg;
+blog/pics/2007/nabe_may/nabe_05.jpg;blog/pics/2007/nabe_may/thumb/nabe_05.jpg;
+blog/pics/2007/nabe_may/nabe_06.jpg;blog/pics/2007/nabe_may/thumb/nabe_06.jpg;
+
+{% endgallery %}
