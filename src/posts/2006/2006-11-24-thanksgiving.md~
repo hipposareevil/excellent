@@ -1,0 +1,31 @@
+---
+layout: post
+title: Thanksgiving 2006
+permalink: /thanksgiving-2006
+categories:
+- fun
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_lock: '1269743527'
+  _edit_last: '1'
+---
+<p>For Thanksgiving we (Mom, Dad, Ron, Esther, Ingrid and me) went down to the beach to eat the turkey.  My mom beat us all in Mexican Train, like usual.</p>
+<br />
+
+
+{% gallery %} 
+blog/pics/2006/thanksgiving/thanksgiving_01.jpg;blog/pics/2006/thanksgiving/thumb/thanksgiving_01.jpg;Ingrid and Ron
+blog/pics/2006/thanksgiving/thanksgiving_04.jpg;blog/pics/2006/thanksgiving/thumb/thanksgiving_04.jpg;Carving the bird
+blog/pics/2006/thanksgiving/thanksgiving_07.jpg;blog/pics/2006/thanksgiving/thumb/thanksgiving_07.jpg;Ingrid and Esther
+blog/pics/2006/thanksgiving/thanksgiving_08.jpg;blog/pics/2006/thanksgiving/thumb/thanksgiving_08.jpg;Ingrid
+blog/pics/2006/thanksgiving/thanksgiving_09.jpg;blog/pics/2006/thanksgiving/thumb/thanksgiving_09.jpg;Plate # 1
+blog/pics/2006/thanksgiving/thanksgiving_11.jpg;blog/pics/2006/thanksgiving/thumb/thanksgiving_11.jpg;Playing Mexican Train dominoes
+blog/pics/2006/thanksgiving/thanksgiving_12.jpg;blog/pics/2006/thanksgiving/thumb/thanksgiving_12.jpg;Esther pre dessert
+blog/pics/2006/thanksgiving/thanksgiving_15.jpg;blog/pics/2006/thanksgiving/thumb/thanksgiving_15.jpg;Ingrid pre dessert
+blog/pics/2006/thanksgiving/thanksgiving_16.jpg;blog/pics/2006/thanksgiving/thumb/thanksgiving_16.jpg;Esther full
+blog/pics/2006/thanksgiving/thanksgiving_17.jpg;blog/pics/2006/thanksgiving/thumb/thanksgiving_17.jpg;Ingrid all done
+
+{% endgallery %}

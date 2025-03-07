@@ -1,0 +1,28 @@
+---
+layout: post
+title: Simone's Christening
+categories:
+- fun
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_lock: '1269743506'
+  _edit_last: '1'
+---
+<p>This Saturday was Simone's Christening.</p>
+<br />
+
+
+{% gallery %} 
+blog/pics/2006/simone/simone_01.jpg;blog/pics/2006/simone/thumb/simone_01.jpg;Sleeping Simone
+blog/pics/2006/simone/simone_02.jpg;blog/pics/2006/simone/thumb/simone_02.jpg;Trey, Mary and Simone
+blog/pics/2006/simone/simone_03.jpg;blog/pics/2006/simone/thumb/simone_03.jpg;
+blog/pics/2006/simone/simone_04.jpg;blog/pics/2006/simone/thumb/simone_04.jpg;Babtism
+blog/pics/2006/simone/simone_05.jpg;blog/pics/2006/simone/thumb/simone_05.jpg;Happy parents
+blog/pics/2006/simone/simone_06.jpg;blog/pics/2006/simone/thumb/simone_06.jpg;Grandparents and parents
+blog/pics/2006/simone/simone_07.jpg;blog/pics/2006/simone/thumb/simone_07.jpg;Simones gifts
+blog/pics/2006/simone/simone_08.jpg;blog/pics/2006/simone/thumb/simone_08.jpg;Grandpa and Simone
+
+{% endgallery %}

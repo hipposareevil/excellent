@@ -1,0 +1,28 @@
+---
+layout: post
+title: Angel's Rest and Cheezits
+permalink: /angels-rest-cheezits
+categories:
+- fun
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_lock: '1269743755'
+  _edit_last: '1'
+---
+<p>An Saturday Ron, Dan and I went up Angel's Rest as a small training hike. It was sunny out until we got to the hike and then it started raining and hailing.  After the hail it was awesome out and we had rainbows and fog.</p>
+<br />
+
+
+{% gallery %} 
+blog/pics/2006/angels_rest/angel_rest_01.jpg;blog/pics/2006/angels_rest/thumb/angel_rest_01.jpg;West
+blog/pics/2006/angels_rest/angel_rest_02.jpg;blog/pics/2006/angels_rest/thumb/angel_rest_02.jpg;Washington
+blog/pics/2006/angels_rest/angel_rest_03.jpg;blog/pics/2006/angels_rest/thumb/angel_rest_03.jpg;Ron
+blog/pics/2006/angels_rest/angel_rest_04.jpg;blog/pics/2006/angels_rest/thumb/angel_rest_04.jpg;Post hail
+blog/pics/2006/angels_rest/angel_rest_05.jpg;blog/pics/2006/angels_rest/thumb/angel_rest_05.jpg;Dan and Ron
+blog/pics/2006/angels_rest/angel_rest_06.jpg;blog/pics/2006/angels_rest/thumb/angel_rest_06.jpg;Halo
+blog/pics/2006/angels_rest/angel_rest_10.jpg;blog/pics/2006/angels_rest/thumb/angel_rest_10.jpg;Angels Rest
+
+{% endgallery %}

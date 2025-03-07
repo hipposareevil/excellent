@@ -1,0 +1,39 @@
+---
+layout: post
+title: Christmas 2006
+categories:
+- fun
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '1'
+  _edit_lock: '1269743384'
+---
+Christmas 2006.  We had cool stocking stuffers and then a fresh ham for dinner.  Ron, Jami, Esther and Angel came over for dinner and ate all the food.
+
+<br />
+
+
+{% gallery %} 
+blog/pics/2006/xmas/xmas_01.jpg;blog/pics/2006/xmas/thumb/xmas_01.jpg;Xmas chicken
+blog/pics/2006/xmas/xmas_02.jpg;blog/pics/2006/xmas/thumb/xmas_02.jpg;Xmas chicken
+blog/pics/2006/xmas/xmas_03.jpg;blog/pics/2006/xmas/thumb/xmas_03.jpg;Simone's flamingo
+blog/pics/2006/xmas/xmas_04.jpg;blog/pics/2006/xmas/thumb/xmas_04.jpg;Simone and her flamingo
+blog/pics/2006/xmas/xmas_05.jpg;blog/pics/2006/xmas/thumb/xmas_05.jpg;Mom and Simone
+blog/pics/2006/xmas/xmas_07.jpg;blog/pics/2006/xmas/thumb/xmas_07.jpg;Jami, Angel, Ron, Simone and Trey for dinner
+blog/pics/2006/xmas/xmas_08.jpg;blog/pics/2006/xmas/thumb/xmas_08.jpg;Esther
+blog/pics/2006/xmas/xmas_10.jpg;blog/pics/2006/xmas/thumb/xmas_10.jpg;Ron and the ham
+blog/pics/2006/xmas/xmas_14.jpg;blog/pics/2006/xmas/thumb/xmas_14.jpg;Ham
+blog/pics/2006/xmas/xmas_15.jpg;blog/pics/2006/xmas/thumb/xmas_15.jpg;Dinner
+blog/pics/2006/xmas/xmas_16.jpg;blog/pics/2006/xmas/thumb/xmas_16.jpg;Dessert
+blog/pics/2006/xmas/xmas_17.jpg;blog/pics/2006/xmas/thumb/xmas_17.jpg;Dessert
+blog/pics/2006/xmas/xmas_19.jpg;blog/pics/2006/xmas/thumb/xmas_19.jpg;Trey, Simone and Mary
+blog/pics/2006/xmas/xmas_20.jpg;blog/pics/2006/xmas/thumb/xmas_20.jpg;Mary and Ron
+blog/pics/2006/xmas/xmas_21.jpg;blog/pics/2006/xmas/thumb/xmas_21.jpg;Angel and Esther
+blog/pics/2006/xmas/xmas_22.jpg;blog/pics/2006/xmas/thumb/xmas_22.jpg;Jami
+blog/pics/2006/xmas/xmas_23.jpg;blog/pics/2006/xmas/thumb/xmas_23.jpg;Mom
+blog/pics/2006/xmas/xmas_24.jpg;blog/pics/2006/xmas/thumb/xmas_24.jpg;Dad
+
+{% endgallery %}
