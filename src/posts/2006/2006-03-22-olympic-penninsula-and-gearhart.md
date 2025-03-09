@@ -1,7 +1,7 @@
 ---
 title: Olympic Penninsula 
-tags: ["hiking", "washington"]
-tags: ["X"]03-22
+tags: ["2006", "hiking", "washington"]
+date: 2006-03-22
 ---
 Last weekend I went up to the Olympic Penninsula with my buddies Matt, Keevin and Josh to do the Third Beach to Oil City Road hike.  It is a very cool hike, 17 miles of rain forest and beaches.  About half of the hike is on the beach and when crossing the headlands into the forest you take these steep ladders with ropes up and down.  We had awesome weather, only 20 minutes of rain, the rest of the time was sunny and cool.
 

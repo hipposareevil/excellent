@@ -1,7 +1,7 @@
 ---
 title: Monkey Face
 date: 2006-10-17
-tags: ["climbing"]
+tags: ["2006", "climbing"]
 ---
 Last weekend Ron, Esther, Dan and I went over to Smith to climb Monkey Face.  While Ron and I did the Pioneer Route they did the West Face Variation.  I made Ron, me and Esther some aiders with webbing as we're not sure if aiding is our bag or not.
 

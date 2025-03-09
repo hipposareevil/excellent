@@ -1,6 +1,6 @@
 ---
 title: Suck Ass Weekend
-tags: ["home"]
+tags: ["2006", "home"]
 date: 2006-02-21
 ---
 I have to say this weekend blew.  We went for our training hike up Mt. Defiance and I was so tired I was resting on trees on the way up.  Matt and Keevin had to wait a half hour at the bottom I was so slow.<br />

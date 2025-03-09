@@ -1,7 +1,7 @@
 ---
 title: 'Mt. Defiance #3'
 date: 2006-02-17
-tags: ["hiking", "gorge"]
+tags: ["2006", "hiking", "gorge"]
 ---
 Last Sunday was Mt. Defiance numero 3.  We started at a respectable 8am after chowing on pancakes and eggs.
 Click for pictures:

@@ -1,11 +1,13 @@
 ---
 title: Dog Mountain Training
-tags: ["hiking", "gorge"]
+tags: ["2006", "hiking", "gorge"]
+date: 2006-06-04
 ---
 Keevin, Esther and I went up Dog Mountain on Saturday for a little training hike and to view the last bits of the wildflowers.
 
 ## Photos 
 
+{% gallery %}
 2006/dog_mountain/dog_mountain_01.jpg;Trail up
 2006/dog_mountain/dog_mountain_03.jpg;Esther near top
 2006/dog_mountain/dog_mountain_05.jpg;

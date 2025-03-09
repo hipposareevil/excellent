@@ -1,6 +1,6 @@
 ---
 title: Gearhart, Oregon
-tags: ["beach"]
+tags: ["2006", "beach"]
 date: 2006-03-26
 ---
 Gearhart, Oregon.

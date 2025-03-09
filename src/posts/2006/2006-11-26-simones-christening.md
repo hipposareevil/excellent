@@ -1,6 +1,6 @@
 ---
 title: Simone's Christening
-tags: ["fun"]
+tags: ["2006", "fun"]
 date: 2006-11-26
 ---
 This Saturday was Simone's Christening.

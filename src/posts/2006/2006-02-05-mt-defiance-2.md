@@ -1,7 +1,7 @@
 ---
 title: 'Mt. Defiance #2'
 date: 2006-02-05
-tags: ["hiking", "gorge"]
+tags: ["2006", "hiking", "gorge"]
 ---
 Today we did our second training hike up Mt. Defiance.  This time it was Matt, Keevn, Aimee, her dag Kala and me.  We figured out that our last hike was actually up Starvation Ridge (No. 414 via 414b) instead of Mt. Defiance (No. 413)  The beginning was much easier this time when we went up the correct trail.
 

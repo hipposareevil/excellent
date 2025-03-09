@@ -1,6 +1,6 @@
 ---
 title: 'Mt Defiance #1'
-tags: ["hiking", "gorge"]
+tags: ["2006", "hiking", "gorge"]
 date: 2006-01-30
 ---
 In preparation for climbing mountains this year, Matt, his friend Dobson and I went up into the Gorge to hike Mt. Defiance after eating some kickass breakfast burritos.  We ran into two other groups getting ready and they had snowshoes on their packs.  Matt hoped that they were over prepared.

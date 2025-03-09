@@ -1,7 +1,7 @@
 ---
 title: Mt. Hood Summit Poses
 date: 2006-06-11
-tags: ["climbing", "mthood"]
+tags: ["2006", "climbing", "mthood"]
 ---
 Esther, Keevin, Matt and I went up Hood Friday night via the West Crater Rim route.  We left Timberline Lodge a bit after midnight and hit the true summit around 7.  The conditions were perfect, freezing temperatures, solid snow, a cloud layer just below Timberline, a sky full of stars and a full moon such that we didn't need our headlamps.
 

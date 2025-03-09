@@ -1,6 +1,6 @@
 ---
 title: Training on Mt. Hood
-tags: ["climbing", "mthood"]
+tags: ["2006", "climbing", "mthood"]
 ---
 Keevin, Matt and I took a class through <a href="http://www.timberlinemtguides.com/">Timberline Mountain Guides</a> on advanced snow technique and crevasse rescue.  I think the rope mangement for crevasse rescue melted our brains but we eventually got it down.
 

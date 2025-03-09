@@ -1,6 +1,6 @@
 ---
 title: Thanksgiving 2006
-tags: ["fun"]
+tags: ["2006", "fun"]
 date: 2006-11-24
 ---
 For Thanksgiving we (Mom, Dad, Ron, Esther, Ingrid and me) went down to the beach to eat the turkey.  My mom beat us all in Mexican Train, like usual.

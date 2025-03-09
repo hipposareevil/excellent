@@ -1,7 +1,7 @@
 ---
 title: $250 ticket for blowing stop sign on bike
 date: 2006-05-10
-tags: ["biking"]
+tags: ["2006", "biking"]
 ---
 As I rolled down Salmon street on my way to work I saw a group of bikers on the side of the road with police.  I thought it was pretty cool the cops were giving out coffee and donuts.  Not so.  They were busy handing out $250 tickets for running the stop sign up the block.
 

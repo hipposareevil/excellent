@@ -1,6 +1,6 @@
 ---
 title: Ingalls Peak
-tags: ["climbing", "washington"]
+tags: ["2006", "climbing", "washington"]
 ---
 Esther, Matt, Kate, Dan and I went up to Washington to climb Ingalls Peak over the weekend. We were going to do Mt. Stuart but changed our minds after we heard that it'd be over 16 hours.  We figured we should try something smaller first.  So our friend Bob told us to do Ingalls Peak right next door.
 

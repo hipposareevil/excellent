@@ -1,7 +1,7 @@
 ---
 title: 'Mt. Defiance #4'
 date: 2006-02-22
-tags: ["hiking", "gorge"]
+tags: ["2006", "hiking", "gorge"]
 ---
 ## Photos 
 

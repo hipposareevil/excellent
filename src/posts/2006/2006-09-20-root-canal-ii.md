@@ -1,6 +1,6 @@
 ---
 title: Root Canal II
-tags: ["health"]
+tags: ["2006", "health"]
 date: 2006-09-20
 ---
 After my last root canal the dentist called to tell me he had gone over the x-rays and was concerned with how the digging went.  I figured if he's worried, then I'm concerned.  He said he wanted to get back in there and try again.

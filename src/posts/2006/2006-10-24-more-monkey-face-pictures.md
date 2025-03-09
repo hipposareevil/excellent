@@ -1,6 +1,6 @@
 ---
 title: More Monkey Face Pictures
-tags: ["climbing", "oregon"]
+tags: ["2006", "climbing", "oregon"]
 date: 2006-10-14
 ---
 

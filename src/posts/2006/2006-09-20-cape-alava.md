@@ -1,6 +1,6 @@
 ---
 title: Cape Alava
-tags: ["camping", "washington"]
+tags: ["2006", "camping", "washington"]
 date: 2006-09-20
 ---
 Last weekend Jill and I went up to Cape Alava on the Olympic Penninsula in Washington.  It's a cool hike in to the beach - 3 miles of mostly boardwalk hiking through a rain forest.  We got an awesome campsite right next to the beach on soft grass.

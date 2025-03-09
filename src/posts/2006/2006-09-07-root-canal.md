@@ -1,7 +1,7 @@
 ---
 title: Root Canal
 date: 2006-09-07
-tags: ["health"]
+tags: ["2006", "health"]
 ---
 
 I got my first root canal yesterday.  Half of the people I talked to said it wouldn't hurt, the other half said it was painful.  So I took the offer for nitrous oxide.
