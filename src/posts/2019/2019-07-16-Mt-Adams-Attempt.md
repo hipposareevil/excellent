@@ -1,7 +1,7 @@
 ---
 title: Mt. Adams Attempt
 date: 2019-07-16 12:07:31
-tags: ["2019", "climbing", "mtadams"]
+tags: ["2019", "climbing", "mtadams", "mountaineering"]
 ---
 
 Went up Mt. Adams with Trey while Dad managed basecamp.  I utterly failed in training and stopped at Pikers Peak.

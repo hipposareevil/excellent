@@ -1,6 +1,6 @@
 ---
 title: South Sister Crowds
-tags: ["2011", "climbing", "southsister"]
+tags: ["2011", "climbing", "southsister", "mountaineering"]
 date: 2011-08-20
 ---
 ## Ascent

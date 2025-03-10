@@ -1,6 +1,6 @@
 ---
 title: Mt. Hood Solo Climb
-tags: ["2013", "climbing", "oregon", "mthood"]
+tags: ["2013", "climbing", "oregon", "mthood", "mountaineering"]
 date: 2013-06-02
 ---
 

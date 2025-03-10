@@ -1,7 +1,7 @@
 ---
 title: Bike Tour Mountaineering Mt. Adams
 date: 2017-06-20 14:30:08
-tags: ["2017", "climbing"]
+tags: ["2017", "climbing", "mountaineering", "biking"]
 ---
 
 Dan was nice enough to join me on a bike-tour-mountaineering trip this year. 

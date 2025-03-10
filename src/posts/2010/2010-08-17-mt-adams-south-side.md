@@ -1,6 +1,6 @@
 ---
 title: Mt. Adams South Side with Dan
-tags: ["2010", "climbing", "mtadams"]
+tags: ["2010", "climbing", "mtadams", "mountaineering"]
 date: 2010-08-17
 ---
 ## le ascent

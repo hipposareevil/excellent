@@ -1,6 +1,6 @@
 ---
 title: Mt. Adams with Marc
-tags: ["2013", "climbing", "washington", "mtadams"]
+tags: ["2013", "climbing", "washington", "mtadams", "mountaineering"]
 date: 2013-07-08
 ---
 

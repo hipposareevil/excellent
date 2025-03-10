@@ -1,6 +1,6 @@
 ---
 title: Middle Sister with Ingrid
-tags: ["2011", "climbing", "oregon"]
+tags: ["2011", "climbing", "oregon", "mountaineering"]
 date: 2011-07-02
 ---
 Ascent

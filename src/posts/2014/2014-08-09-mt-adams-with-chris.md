@@ -1,7 +1,7 @@
 ---
 title: Mt. Adams with Chris
 date: 2014-08-09
-tags: ["2014", "climbing", "washington", "mtadams"]
+tags: ["2014", "climbing", "washington", "mtadams", "mountaineering"]
 ---
 
 <h2>Climb</h2>

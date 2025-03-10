@@ -1,6 +1,6 @@
 ---
 title: Illumination Rock Camping
-tags: ["2012", "climbing", "mthood"]
+tags: ["2012", "climbing", "mthood", "mountaineering"]
 date: 2012-05-30
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Mt. Jefferson bike tour mountaineering
-tags: ["2012", "climbing", "oregon", "biking"]
+tags: ["2012", "climbing", "oregon", "biking", "mountaineering"]
 date: 2012-07-23
 ---
 <h2>Approach</h2>

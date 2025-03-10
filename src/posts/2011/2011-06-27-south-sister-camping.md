@@ -1,6 +1,6 @@
 ---
 title: South Sister camping
-tags: ["2011", "climbing", "southsister"]
+tags: ["2011", "climbing", "southsister", "mountaineering"]
 date: 2011-06-27
 ---
 

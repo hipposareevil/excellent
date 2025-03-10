@@ -1,7 +1,7 @@
 ---
 title: Mt Aspiring
 date: 2023-12-15 15:18:14
-tags: ["2023", "climbing"]
+tags: ["2023", "climbing", "mountaineering"]
 ---
 
 I went down to Wanaka to do a guided climb of Mt. Aspiring. The drive down was pretty and then there was a crepes stand in Wanaka that had Nutella. We took a helicopter up to the side of the glacier to hike over to [Colin Todd Hutt](https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/mount-aspiring-national-park/things-to-do/huts/colin-todd-hut/) where we'd use as our base camp. 

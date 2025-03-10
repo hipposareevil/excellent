@@ -1,7 +1,7 @@
 ---
 title: Mt. Hood attempts with Keevin
 date: 2022-07-14 13:58:57
-tags: ["2022", "climbing"]
+tags: ["2022", "climbing", "mountaineering"]
 ---
 
 Three failures on Mt. Hood with Keevin. Once due to rain, once due to clouds and wind, once due to the lungs.

@@ -1,6 +1,6 @@
 ---
 title: Mt. Hood West Ridge
-tags: ["2006", "climbing", "mthood"]
+tags: ["2006", "climbing", "mthood", "mountaineering"]
 date: 2006-05-08
 ---
 Saturday morning my friends Keevin, Frank and I went up Mt. Hood from Timberline Lodge.  We left around 2 am and hit the base of the Hog's Back around 5:30.  We decided to skip the Hog's Back and traverse over to the West Ridge.

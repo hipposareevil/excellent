@@ -1,6 +1,6 @@
 ---
 title: Mt. Adams first solo
-tags: ["2011", "climbing", "mtadams"]
+tags: ["2011", "climbing", "mtadams", "mountaineering"]
 date: 2011-08-04
 ---
 ## Ascent

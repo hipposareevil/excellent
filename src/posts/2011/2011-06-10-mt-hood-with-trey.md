@@ -1,6 +1,6 @@
 ---
 title: Mt. Hood with Trey
-tags: ["2011", "climbing", "mthood"]
+tags: ["2011", "climbing", "mthood", "mountaineering"]
 date: 2011-06-10
 ---
 Ascent

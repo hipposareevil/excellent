@@ -1,6 +1,6 @@
 ---
 title: South Sister Ski
-tags: ["2013", "climbing", "oregon", "southsister"]
+tags: ["2013", "climbing", "oregon", "southsister", "mountaineering"]
 date: 2013-05-01
 ---
 

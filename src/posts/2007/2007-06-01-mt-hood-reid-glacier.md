@@ -1,6 +1,6 @@
 ---
 title: Mt. Hood Reid Glacier
-tags: ["2007", "climbing", "mthood"]
+tags: ["2007", "climbing", "mthood", "mountaineering"]
 date: 2007-06-01
 ---
 Keevin, Matt and I went up on Hood to do the Luthold Couloir.  We made awesome time to the top of the Palmer lift and then headed over towards Illumination Rock.  From here on the snow was pretty loose and we postholed everywhere.  We cramponed up at Illumination where Keevin lost his blue butt pad.  We went over the saddle and took the wrong way over to the route we wanted.  We ended up going up the Reid Glacier Headwall.  We got in a cool section of mixed climbing that was pretty thin in parts.  This was last fun part of the climb.  I promptly took off my helmet to remove my hat and dropped my headlamp down the glacier.  Keevin said it was gettable, but it had taken 30 minutes to get from where the lamp now was.  So I called it an expensive lesson.

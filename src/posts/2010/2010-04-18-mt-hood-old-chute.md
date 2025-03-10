@@ -1,6 +1,6 @@
 ---
 title: Mt. Hood Old Chute
-tags: ["2010", "climbing", "mthood"]
+tags: ["2010", "climbing", "mthood", "mountaineering"]
 date: 2010-04-18
 ---
 

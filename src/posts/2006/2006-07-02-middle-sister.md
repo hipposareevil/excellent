@@ -1,7 +1,7 @@
 ---
 title: Middle Sister Kermantle
 date: 2006-07-02
-tags: ["2006", "climbing", "oregon"]
+tags: ["2006", "climbing", "oregon", "mountaineering"]
 ---
 Over the 4th of July weekend we (Esther, Keevin, Matt and I) went over to Eastern Oregon to tackle the Middle Sister.  We had plans to do the "East Arete" as it looked like a super cool line with some easy rock climbing inbetween technical snow climbing.
 

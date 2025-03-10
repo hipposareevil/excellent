@@ -1,6 +1,6 @@
 ---
 title: South Sister [attempt]
-tags: ["2012", "climbing", "southsister"]
+tags: ["2012", "climbing", "southsister", "mountaineering"]
 date: 2012-06-28
 ---
 I went down to Bend to go camp on summit of South Sister like last year.  I ended up turning around at 7500 feet as the snow had me concerned.  The weather turned for a while also, but mainly the snow making small cracks around my postholes were unsettling on my own.  I spent a few hours at the flats taking photos before going back down through the trees back to the car.

@@ -1,6 +1,6 @@
 ---
 title: Mt. Hood Summit Bivy
-tags: ["2012", "climbing", "mthood", "oregon"]
+tags: ["2012", "climbing", "mthood", "oregon", "mountaineering"]
 date: 2012-05-11
 ---
 
