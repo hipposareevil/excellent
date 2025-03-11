@@ -1,9 +1,9 @@
 ---
 title: Moab Pictures 2004
-tags: ["2004", "biking"]
+tags: ["2004", "biking", "moab"]
 date: 2004-10-04
 ---
-Moab VII.
+### Moab VII.
 
 ## Photos 
 
