@@ -9,15 +9,15 @@ export default {
       url: '/tags/'
     },
     {
-      text: 'Bike',
+      text: '[Bike]',
       url: 'http://bike.willprogramforfood.com/'
     },
     {
-      text: 'Photos',
+      text: '[Photos]',
       url: 'http://photos.willprogramforfood.com/'
     },
     {
-      text: 'Mobile',
+      text: '[Mobile]',
       url: 'http://hipposareevil.tumblr.com'
     }
   ],
