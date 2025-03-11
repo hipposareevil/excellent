@@ -1,5 +1,5 @@
 export const url = process.env.URL || 'http://localhost:8080';
-export const siteName = 'willprogramforfood';
+export const siteName = 'blog.willprogramforfood';
 export const siteDescription = 'Ramblings';
 export const siteType = 'Person'; // schema
 export const locale = 'en_EN';
@@ -27,7 +27,7 @@ export const opengraph_default_alt =
 export const blog = {
   // RSS feed
   name: 'Ramblings',
-  description: 'willprogramforfood.com',
+  description: 'blog.willprogramforfood.com',
   // feed links are looped over in the head. You may add more to the array.
   feedLinks: [
     {

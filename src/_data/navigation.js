@@ -1,19 +1,23 @@
 export default {
   top: [
     {
-      text: 'Bike',
-      url: '/bike/'
-    },
-    {
       text: 'Blog',
-      url: 'http://blog.willprogramforfood.com/'
+      url: '/blog/'
     },
     {
-      text: 'Photos',
+      text: 'Tags',
+      url: '/tags/'
+    },
+    {
+      text: '[Bike]',
+      url: 'http://bike.willprogramforfood.com/'
+    },
+    {
+      text: '[Photos]',
       url: 'http://photos.willprogramforfood.com/'
     },
     {
-      text: 'Mobile',
+      text: '[Mobile]',
       url: 'http://hipposareevil.tumblr.com'
     }
   ],
